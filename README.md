@@ -56,6 +56,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RAJAN081&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
 <!-- Snake animation -->
-![Snake animation](https://github.com/RAJAN081/RAJAN081/blob/output/github-contribution-grid-snake.svg)
+<h2 align="center">🐍 My Snake Game Contribution Graph</h2>
+<p align="center">
+  <img src="https://github.com/RAJAN081/RAJAN081/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
 
 
