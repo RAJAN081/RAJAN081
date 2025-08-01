@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rajanspolia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajanspolia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/a s rajan spolia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a s rajan spolia" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajan01-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajan01-" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/a-s-rajan-spolia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a s rajan spolia" height="30" width="40" /></a>
+<a href="https://leetcode.com/rajan01-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajan01-" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
