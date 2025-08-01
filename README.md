@@ -1,4 +1,4 @@
-<!-- Animated banner/gif at the top of the README -->
+!-- Animated banner/gif at the top of the README -->
 [![MasterHead](https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif)](https://github.com/RAJAN081)
 
 <h1 align="center">Yoo 👋, I'm A S Rajan Spolia</h1>
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/twitter/follow/RajanSpolia?label=Follow%20%40RajanSpolia&style=for-the-badge&color=1DA1F2&logo=twitter" alt="Twitter Follow"/>
 </a>  </p>
 
-- 🔭 I'm currently working on **write-like-me-bro**
+- 🔭 I'm currently working on **Javascript**
 - 🌱 I'm currently learning **Backend**
 - 💬 Ask me about **DSA , FRONTEND**
 - 📫 How to reach me **rajanspolia241@gmail.com**
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/rajanspolia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajanspolia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/a-s-rajan-spolia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a s rajan spolia" height="30" width="40" /></a>
-<a href="https://leetcode.com/rajan01-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajan01-" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rajan01-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajan01-" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,7 +47,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajan081&show_icons=true&locale=en&layout=compact" alt="rajan081" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajan081&" alt="rajan081" /></p>
 
@@ -59,6 +59,4 @@
 <p align="center">
   <img src="https://github.com/RAJAN081/RAJAN081/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
-
-
 
