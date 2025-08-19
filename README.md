@@ -1,4 +1,4 @@
-!-- Animated banner/gif at the top of the README -->
+
 [![MasterHead](https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif)](https://github.com/RAJAN081)
 
 <h1 align="center">Yoo 👋, I'm A S Rajan Spolia</h1>
