@@ -94,7 +94,7 @@
 
 ## 🏆 GitHub Profile Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RAJAN081&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RAJAN081&theme=gruvbox&no-frame=true&row=1&column=6" />
 </p>
 
 ---
