@@ -35,6 +35,12 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
          alt="a s rajan spolia" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp; 
+  <a href="https://www.leetcode.com/RAJAN01-" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+         alt="RAJAN01-" height="30" width="40" />
+  </a>
+
 </p>
 
 <!-- Centered LeetCode icon -->
