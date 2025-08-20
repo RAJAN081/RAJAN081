@@ -3,7 +3,7 @@
 
 <h1 align="center">Yoo 👋, I'm A S Rajan Spolia</h1>
 <h3 align="center">Making algorithms sweat so you don’t </h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=RAJAN081&label=PROFILE+VIEWS&style=for-the-badge" alt="RAJAN081" /> 
@@ -19,7 +19,7 @@
 - 🌱 I'm currently learning **Machine Learning and Python**
 - 💬 Ask me about **DSA, Python, or random coding chaos**
 - 📫 Reach me at **rajanspolia241@gmail.com**
-- ⚡ Fun fact: **My code compiles better when I'm wearing headphones... even if no music's playing. It's the vibe.** <br> <br> <br> <br> <br> <br> 
+- ⚡ Fun fact: **My code compiles better when I'm wearing headphones... even if no music's playing. It's the vibe.** <br> <br> <br> 
 ---
 
 ## 🌐 Connect with Me
