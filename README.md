@@ -45,10 +45,9 @@
 
 <!-- Centered LeetCode icon -->
 <p align="center">
-  <img src="https://readmecodegen.vercel.app/api/leetcode-stats/RAJAN01-?theme=gradient&acceptance=false&reputation=false&template=minimal" 
-       alt="RAJAN01- LeetCode Stats" 
-       width="400" />
+  <img src="https://leetcard.jacoblin.cool/RAJAN01-?theme=unicorn&font=Hind%20Siliguri&ext=contest" />
 </p>
+
 
 ---
 
@@ -94,7 +93,7 @@
 
 ## 🏆 GitHub Profile Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RAJAN081&theme=gruvbox&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.ryo-ma.dev/?username=RAJAN081&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
